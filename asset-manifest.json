@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/age_Teller/static/css/main.e16fd598.css",
+    "main.js": "/age_Teller/static/js/main.85d73c0d.js",
+    "static/media/partyPopper.jpg": "/age_Teller/static/media/partyPopper.4bf4154088123ef9e5b2.jpg",
+    "index.html": "/age_Teller/index.html",
+    "main.e16fd598.css.map": "/age_Teller/static/css/main.e16fd598.css.map",
+    "main.85d73c0d.js.map": "/age_Teller/static/js/main.85d73c0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e16fd598.css",
+    "static/js/main.85d73c0d.js"
+  ]
+}
